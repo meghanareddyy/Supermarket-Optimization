@@ -71,6 +71,12 @@ python3 main.py <filepath>
 
 the extracted output will be in the executed folder named as [frequently_purchased_items.csv](frequently_purchased_items.csv)
 
+The extracted output is returned with the following format:
+
+```
+<item set size (N)>, <co-occurrence frequency>, <item 1 id >, <item 2 id>, .... <item N id>.
+```
+
 
 ## Contact
 
